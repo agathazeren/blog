@@ -1,0 +1,3 @@
+#+title: Free (as in Freedom) Space Based Internet
+
+LEO-based high speed internet, currently being deployed with Starlink, OneWeb, and others, is an amazing technology. However, there is a dark side. And I'm not talking about astronomical obstructions. It is the power of SpaceX (and Peggy). One of the greatest aspects of the Internet is its decentralized nature (even though it is becoming increasingly centralized), but these new space based networks are an existential threat. Within one of these networks, 
